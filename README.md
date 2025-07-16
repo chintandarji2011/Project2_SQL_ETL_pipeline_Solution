@@ -11,7 +11,7 @@ Simulate ETL using SQL and PostgreSQL.
 etl_pipeline_project/
 │
 ├── raw_data/                  # CSV files
-│   ├── employees_raw.csv (path: 'D:\')
+│   ├── employees_raw.csv (Path: 'D:\')
 |   └── employees_raw_2.csv (Path: 'D:\')
 │
 ├── scripts/
