@@ -11,8 +11,8 @@ Simulate ETL using SQL and PostgreSQL.
 etl_pipeline_project/
 │
 ├── raw_data/                  # CSV files
-│   ├── employees_raw.csv (path: `D:\`)
-|   └── employees_raw_2.csv (Path: `D:\`)
+│   ├── employees_raw.csv (path: 'D:\')
+|   └── employees_raw_2.csv (Path: 'D:\')
 │
 ├── scripts/
 │   ├── 01_Create_Table.sql
@@ -22,8 +22,8 @@ etl_pipeline_project/
 │   ├── 05_Create_trigger_on_Audit_table.sql
 │   └── 06_export_final.sql
 ├── output/
-│   ├── Final_employees.csv (Path: `D:\ETL_sql_project_file\`)
-│   └── Final_etl_audit_log.csv (Path: `D:\ETL_sql_project_file\`)
+│   ├── Final_employees.csv (Path: 'D:\ETL_sql_project_file\')
+│   └── Final_etl_audit_log.csv (Path: 'D:\ETL_sql_project_file\')
 └── README.md
 ```
 > Note: Make sure the folder exists: `D:\ETL_sql_project_file\` for Output, Because the PostgreSQL server process (the postgres service) does not have permission to write/create to that folder.
