@@ -48,8 +48,8 @@ etl_pipeline_project/
 
 ## Run Order
 1. 01_create_tables.sql
-2. 02_import_data.sql
-3. 03_clean_transform_data.sql
-4. 04_Insert_log_audit_table.sql
-5. 05_Create_trigger_on_Audit_table.sql
+2. 05_Create_trigger_on_Audit_table.sql
+3. 02_import_data.sql
+4. 03_clean_transform_data.sql
+5. 04_Insert_log_audit_table.sql
 6. 06_export_final.sql
