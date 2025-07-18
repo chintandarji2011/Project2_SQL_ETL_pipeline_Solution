@@ -26,3 +26,5 @@ TRUNCATE TABLE public.employees;
 SELECT * FROM public.etl_audit_log;
 -- Clear Audit table
 TRUNCATE TABLE public.etl_audit_log;
+--reset the identity 
+TRUNCATE TABLE public.etl_audit_log RESTART IDENTITY;
