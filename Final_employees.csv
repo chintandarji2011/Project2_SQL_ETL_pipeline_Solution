@@ -1,0 +1,8 @@
+emp_id,name,age,department,salary,inserted_at
+102,Jane Smith,31,Marketing,62000,2025-07-18 10:13
+103,Robert Brown,,IT,58000,2025-07-18 10:13
+104,Emily White,27,HR,60000,2025-07-18 10:13
+101,John Doe,29,Sales,55000,2025-07-18 10:13
+106,Linda Green,29,HR,61000,2025-07-18 10:13
+105,Robert Gray,32,Operations,58000,2025-07-18 10:13
+107,Mark Silver,40,IT,75000,2025-07-18 10:13
