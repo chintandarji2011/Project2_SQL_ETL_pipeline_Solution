@@ -116,6 +116,7 @@ CALL public.export_audit_table('D:\\ETL_sql_project_file\\Final_etl_audit_log.cs
 
 * Display staging, production, or audit tables.
 * Clear tables as needed to rerun the pipeline.
+* Can also reset the identity of Audit table Primary key column (`lig_id`).
 
 ---
 
