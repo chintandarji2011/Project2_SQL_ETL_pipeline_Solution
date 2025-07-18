@@ -92,7 +92,7 @@ CALL public.export_audit_table('D:\\ETL_sql_project_file\\Final_etl_audit_log.cs
 
 ---
 
-## 📄 **Key Features**
+##  **Key Features**
 
 * **End-to-End ETL in SQL**: No external tools/scripts needed.
 * **Fully Automated**: Using triggers for transformation, logging, and cleanup.
@@ -100,7 +100,7 @@ CALL public.export_audit_table('D:\\ETL_sql_project_file\\Final_etl_audit_log.cs
 
 ---
 
-## ✅ **How to Run**
+##  **How to Run**
 
 1. Create the tables using `01_Create_Table.sql`.
 2. Create the **import**, **transform**, and **export** procedures using scripts `02` to `04`.
@@ -112,22 +112,22 @@ CALL public.export_audit_table('D:\\ETL_sql_project_file\\Final_etl_audit_log.cs
 
 ---
 
-## 🔍 **Testing Queries**
+## **Testing Queries**
 
 * Display staging, production, or audit tables.
 * Clear tables as needed to rerun the pipeline.
 
 ---
 
-## 📦 **Deliverables**
+##  **Deliverables**
 
-✔️ SQL scripts
-✔️ Staging, production, and audit tables
-✔️ Exported CSVs (clean data + logs)
+✔ SQL scripts
+✔ Staging, production, and audit tables
+✔ Exported CSVs (clean data + logs)
 
 ---
 
-## 📚 **Credits**
+##  **Credits**
 
 **Author:** *Darji Chintankumar Dineshchandra*
 <br>
