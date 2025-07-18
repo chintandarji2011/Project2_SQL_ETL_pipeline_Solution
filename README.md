@@ -20,6 +20,7 @@ This project demonstrates a simple **ETL (Extract, Transform, Load)** pipeline b
 ---
 ##  Folder Structure Suggestion
 ```sql
+/*
 etl_pipeline_project/
 │
 ├── raw_data/                  # CSV files
@@ -37,6 +38,7 @@ etl_pipeline_project/
 │   ├── Final_employees.csv (Path: 'D:\ETL_sql_project_file\')
 │   └── Final_etl_audit_log.csv (Path: 'D:\ETL_sql_project_file\')
 └── README.md
+*/
 ```
 > Note: Make sure the folder exists: `D:\ETL_sql_project_file\` for Output, Because the PostgreSQL server process (the postgres service) does not have permission to write/create to that folder.
 
