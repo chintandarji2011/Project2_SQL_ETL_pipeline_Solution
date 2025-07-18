@@ -121,9 +121,9 @@ CALL public.export_audit_table('D:\\ETL_sql_project_file\\Final_etl_audit_log.cs
 
 ##  **Deliverables**
 
-✔ SQL scripts
-✔ Staging, production, and audit tables
-✔ Exported CSVs (clean data + logs)
+- SQL scripts
+- Staging, production, and audit tables
+- Exported CSVs (clean data + logs)
 
 ---
 
